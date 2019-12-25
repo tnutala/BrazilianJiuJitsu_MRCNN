@@ -1,1 +1,2 @@
 # BrazilianJiuJitsu_MRCNN
+This repository is for a personal project regarding instance segmentation in my Brazilian Jiu-Jitsu competition footage. This grappling sport involves two combatants getting into close quarters in order to submit the other by choke, joint lock, compression lock, etc. I aim to investigate if I can separate the detection results for two combatants when they are engaged in this form of combat 
